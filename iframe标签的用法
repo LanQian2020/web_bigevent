@@ -1,0 +1,9 @@
+<iframe name="fm" src=""></iframe>
+name属性用来指定当前iframe的名称
+src属性用来规定在iframe中显示的文档的URL
+
+<a href="/1.html" target="fm"></a>
+<a href="/2.html" target="fm"></a>
+<a href="/3.html" target="fm"></a>
+
+href打开哪个网页，target在哪里打开网页
