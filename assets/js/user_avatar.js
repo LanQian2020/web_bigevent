@@ -65,7 +65,7 @@ $(function () {
                 }
                 layer.msg('更换头像成功！')
                 // 调用父页面的方法重新渲染头像
-                window.parent().getUserInfo()
+                window.parent.getUserInfo()
             }
 
         })
